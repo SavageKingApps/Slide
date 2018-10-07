@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">Slide</string>
+
+<string name = "toolbar_title">Sample Code</string>
+<string name = "toolbar_subtitle">By Monroe Shed</string>
+
+    <!-- needed for instructions layout -->
+<string name = "textview_introduction">The sample code shows use of ToggleButtons, Fragment Animations, FloatingActionButtons, Toolbar, TextViews, and pure Android coding.</string>
+<string name = "textview_instructions">NOTE: Press the Floating Action Button, or either button located at the top/bottom of the screen to animate.</string>
+
+</resources>
